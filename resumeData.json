@@ -1,0 +1,187 @@
+{
+  "main": {
+    "name":"Rahul",
+    "occupation":"(Your Occupation Here)",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpeg",
+    "love":"love.png",
+    "bio":"As a student, I am always energetic and eager to learn new skills along with the study. I love learning new technologies, programming languages and concepts. I always try to learn some practical knowledge in diverse fields as well. I have experience working as part of a team and individually.",
+    "contactmessage":"",
+    "email": "rahulkiitp@gmail.com",
+    "phone": "+91-7761937143",
+    "address":{
+      "city":"Patna",
+      "state":"Bihar",
+      "zip":"",
+      "street":""
+    },
+    "website": "",
+    "resumedownload":"http://www3.ntu.edu.sg/home/eechenss/Papers/Jnl-2015-A%20Low-power%20Hybrid%20RO%20PUF%20with%20Improved%20Thermal%20Stability%20for%20Lightweight%20Applications.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/rahul.skumar123",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/kumarrahul4156",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/rahul-kumar943/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/rah_hul__/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/rahuls321",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I love to work in these following skills.",
+    "education":[
+      {
+        "school":"IIT PATNA",
+        "degree":"BACHELOR OF TECHNOLOGY (Electrical Engineering)",
+        "graduated":"August 2016 - April 2020",
+        "description" : "The Indian Institute of Technology Patna is an autonomous institute of education and research in science, engineering and technology located in Patna, India. It is recognized as an Institute of National Importance by the Government of India."
+      },
+      {
+        "school":"ADARSH VIKAS VIDYALAYA",
+        "degree":"Class 12 (PCM)",
+        "graduated":"July 2014 - April 2016",
+        "_comment":"description : Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Research Internship,IIT Bombay",
+        "title":"Multi-Task Learning For Automated Essay Scoring",
+        "years":"May 2019- July 2019",
+        "description":""
+      },
+      {
+        "company":"Sparkonics, Electrical Club at IIT Patna",
+        "title":"SUB CO-ORDINATOR",
+        "years":"April 2017-18",
+        "description":"I was in Learning division under Sparkonics. At its core, I personally believe on being a mentor is being a trusted advisor. I involved myself available to support and advise my juniors when they need it , and always keeping their best interests in mind."
+      }
+    ],
+    "publication":[
+      {
+        "publication_title":"Online Feature Selection for Multi-label Classification in Multiobjective Optimization Framework",
+        "publication_type" : "Research Paper",
+        "authors": "Rahul Kumar, Dipanjyoti Paul, Sriparna Saha and Jimson Mathew",
+        "date_of_publication": "August 2019",
+        "publisher": " ",
+        "description": "This paper addresses the online feature selection problem in multi-label classification framework where multi-labeled data with features arriving in an online fashion is considered as input. The developed multi-label online feature selection algorithm automatically determines the best subset of features that is suitable for multi-label classification of the given online dataset.",
+        "click_here": "Click here"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python/C++",
+        "description":"I use these two programming languages very often in projects or solving data structure and algorithms problems. As C was my first lanaguage that I started using in college.",
+        "image":"python.jpg",
+        "link":"https://www.python.org/doc/"
+      },
+      {
+        "name":"Keras",
+        "description":"I prefer Keras over other deep learning libraries as it provides a high-level neural networks API which is capable of running on top of either Tensorflow, CNTK, Theano.",
+        "image":"keras.png",
+        "link":"https://keras.io/"
+      },
+      {
+        "name":"Matlab",
+        "description":"I used Matlab in some of my projects.It is very good at performing matrix operations making it useful for things like image operations.It also excels at its plotting functions.",
+        "image":"matlab.jpg",
+        "link":"https://in.mathworks.com/"
+      },
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far. I have used Git for distributed version-control system for tracking changes in source code.It is the fast and flexible version control tool.",
+        "image":"git.jpg",
+        "link":"https://git-scm.com/book/en/v2"
+      },
+      {
+        "name":"Javascript (ES6)",
+        "description":"I used Javascript(ES6) in building this personal website which is generally used to create dynamic and interactive experience for the user.It is the most commonly used as a client side scripting language.",
+        "image":"javascript.png",
+        "link":"https://documentation.js.org/"
+      },
+      {
+        "name":"React Js",
+        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website.",
+        "image":"react.jpg",
+        "link":"https://reactjs.org/docs/getting-started.html"
+      },
+      {
+        "name":"Heroku",
+        "description":"I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image":"heroku.jpg",
+        "link":"https://www.heroku.com/"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Online Features Selection",
+        "category":"Pattern Recognition",
+        "image":"pattern.jpg",
+        "url":"https://github.com/rahuls321/Online-Feature-Selection-"
+      },
+      {
+        "title":"Hardware Security",
+        "category":"PUFs Designing",
+        "image":"puf.jpg",
+        "url":"https://github.com/rahuls321/Hardware-Security"
+      },
+      {
+        "title":"Kagle Digit Recognition",
+        "category":"Deep Learning",
+        "image":"digit.jpg",
+        "url":"https://github.com/rahuls321/Kaggle-Digit-Recognizer"
+      },
+      {
+        "title":"Face Detecting Bot",
+        "category":"ReactJS App",
+        "image":"robo.jpg",
+        "url":"https://rahuls321.github.io/SmartBot/"
+      },
+      {
+        "title":"RoboFriends",
+        "category":"RoboSearch App",
+        "image":"robot2.jpg",
+        "url":"https://rahuls321.github.io/RoboFriends/"
+      },
+      {
+        "title":"Burger App",
+        "category":"Burger App",
+        "image":"burger.png",
+        "url":"https://rahuls321.github.io/Burger-App"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"If you are working on something exciting that you really care about, you don't have to be pushed. The vision pulls you.",
+        "user":"Steve Jobs"
+      },
+      {
+        "text":"I've missed more than 9,000 shots during my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
+        "user":"Michael Jordan"
+      }
+    ]
+  }
+}
