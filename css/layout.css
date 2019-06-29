@@ -263,6 +263,9 @@ ul#nav li.current a { color: #F06000; }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
+#resume p{
+   color: rgb(104, 107, 107)
+}
 
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
@@ -275,7 +278,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: rgb(94, 96, 99);
    margin-bottom: 18px;
    margin-top: 9px;
 }
