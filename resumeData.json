@@ -16,7 +16,7 @@
       "street":""
     },
     "website": "",
-    "resumedownload":"http://www3.ntu.edu.sg/home/eechenss/Papers/Jnl-2015-A%20Low-power%20Hybrid%20RO%20PUF%20with%20Improved%20Thermal%20Stability%20for%20Lightweight%20Applications.pdf",
+    "resumedownload":"/",
     "social":[
       {
         "name":"facebook",
@@ -52,13 +52,15 @@
         "school":"IIT PATNA",
         "degree":"BACHELOR OF TECHNOLOGY (Electrical Engineering)",
         "graduated":"August 2016 - April 2020",
-        "description" : "The Indian Institute of Technology Patna is an autonomous institute of education and research in science, engineering and technology located in Patna, India. It is recognized as an Institute of National Importance by the Government of India."
+        "description" : "The Indian Institute of Technology Patna is an autonomous institute of education and research in science, engineering and technology located in Patna, India. It is recognized as an Institute of National Importance by the Government of India.",
+        "link":"https://www.iitp.ac.in/"        
       },
       {
         "school":"ADARSH VIKAS VIDYALAYA",
         "degree":"Class 12 (PCM)",
         "graduated":"July 2014 - April 2016",
-        "_comment":"description : Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "_comment":"description : Describe your experience at school, what you learned, what useful skills you have acquired etc.",
+        "link":"http://www.avvedu.in/"
       }
     ],
     "work":[
@@ -66,13 +68,18 @@
         "company":"Research Internship,IIT Bombay",
         "title":"Multi-Task Learning For Automated Essay Scoring",
         "years":"May 2019- July 2019",
-        "description":""
+        "description":"This project aims to build a machine learning system for automatic scoring of essays written by students. The basic idea is to build a multi-task learning system which can model the attributes like language fluency, vocabulary, structure, organization, content, etc. simultaneously along with calculating the overall score of the essay.",
+        "link": "http://www.iitb.ac.in/",
+        "report_link":"https://rahuls321.github.io/resume/Internship_Report.pdf",
+        "para":"Internship Report Link: ",
+        "icon":"fa fa-link"
       },
       {
         "company":"Sparkonics, Electrical Club at IIT Patna",
         "title":"SUB CO-ORDINATOR",
         "years":"April 2017-18",
-        "description":"I was in Learning division under Sparkonics. At its core, I personally believe on being a mentor is being a trusted advisor. I involved myself available to support and advise my juniors when they need it , and always keeping their best interests in mind."
+        "description":"I was in Learning division under Sparkonics. At its core, I personally believe on being a mentor is being a trusted advisor. I involved myself available to support and advise my juniors when they need it , and always keeping their best interests in mind.",
+        "link":"https://www.facebook.com/sparkonics/about/"
       }
     ],
     "publication":[
@@ -83,7 +90,7 @@
         "date_of_publication": "August 2019",
         "publisher": " ",
         "description": "This paper addresses the online feature selection problem in multi-label classification framework where multi-labeled data with features arriving in an online fashion is considered as input. The developed multi-label online feature selection algorithm automatically determines the best subset of features that is suitable for multi-label classification of the given online dataset.",
-        "click_here": "Click here"
+        "link": "https://github.com/rahuls321/Online-Feature-Selection-"
       }
     ],
     "skills":[
