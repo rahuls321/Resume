@@ -70,7 +70,7 @@
         "years":"May 2019- July 2019",
         "description":"This project aims to build a machine learning system for automatic scoring of essays written by students. The basic idea is to build a multi-task learning system which can model the attributes like language fluency, vocabulary, structure, organization, content, etc. simultaneously along with calculating the overall score of the essay.",
         "link": "http://www.iitb.ac.in/",
-        "report_link":"https://rahuls321.github.io/resume/Internship_Report.pdf",
+        "report_link":"https://rahuls321.github.io/pdfs/Internship_Report.pdf",
         "para":"Internship Report Link: ",
         "icon":"fa fa-link"
       },
