@@ -16,7 +16,7 @@
       "street":""
     },
     "website": "",
-    "resumedownload":"/",
+    "resumedownload":"https://rahuls321.github.io/pdfs/Rahul's Resume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -42,6 +42,16 @@
         "name":"github",
         "url":"http://github.com/rahuls321",
         "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/LuOPSEKvcgWs",
+        "className":"fa fa-skype"
+      },
+      {
+        "name":"code",
+        "url":"https://auth.geeksforgeeks.org/user/rahuls321/profile",
+        "className":"fa fa-code"
       }
     ]
   },
@@ -75,8 +85,15 @@
         "icon":"fa fa-link"
       },
       {
+        "company":"Students' Gymkhana, IIT Patna",
+        "title":"STUDENT MENTOR",
+        "years":"July 2018- July 2019",
+        "description":"Student Mentorship Program (SMP) - A 1-year program which has been launched with the aim of providing a platform for 1st-year students to interact with seniors from the same department and to motivate students to excel in both academic and non-academic fields and to make the most of their life at IIT Patna and beyond.",
+        "link":"https://www.iitp.ac.in/gymkhana/"
+      },
+      {
         "company":"Sparkonics, Electrical Club at IIT Patna",
-        "title":"SUB CO-ORDINATOR",
+        "title":"SUB-COORDINATOR",
         "years":"April 2017-18",
         "description":"I was in Learning division under Sparkonics. At its core, I personally believe on being a mentor is being a trusted advisor. I involved myself available to support and advise my juniors when they need it , and always keeping their best interests in mind.",
         "link":"https://www.facebook.com/sparkonics/about/"
