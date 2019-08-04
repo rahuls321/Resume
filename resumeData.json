@@ -95,7 +95,7 @@
         "company":"Sparkonics, Electrical Club at IIT Patna",
         "title":"SUB-COORDINATOR",
         "years":"April 2017-18",
-        "description":"I was in Learning division under Sparkonics. At its core, I personally believe on being a mentor is being a trusted advisor. I involved myself available to support and advise my juniors when they need it , and always keeping their best interests in mind.",
+        "description":"I was in the Learning division under Sparkonics. At its core, I personally believe on being a mentor is being a trusted advisor. I involved myself available to support and advise my juniors when they need it , and always keeping their best interests in mind.",
         "link":"https://www.facebook.com/sparkonics/about/"
       }
     ],
@@ -107,7 +107,7 @@
         "date_of_publication": "August 2019",
         "publisher": " ",
         "description": "This paper addresses the online feature selection problem in multi-label classification framework where multi-labeled data with features arriving in an online fashion is considered as input. The developed multi-label online feature selection algorithm automatically determines the best subset of features that is suitable for multi-label classification of the given online dataset.",
-        "link": "https://github.com/rahuls321/Online-Feature-Selection-"
+        "link": "/"
       }
     ],
     "skills":[
