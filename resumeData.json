@@ -52,6 +52,16 @@
         "name":"code",
         "url":"https://auth.geeksforgeeks.org/user/rahuls321/profile",
         "className":"fa fa-code"
+      },
+      {
+        "name":"google_scholar",
+        "url":"https://scholar.google.com/citations?hl=en&authuser=3&user=ypgG92MAAAAJ",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"blog",
+        "url":"https://medium.com/@rahuls321",
+        "className":"fa fa-pencil-square-o"
       }
     ]
   },
@@ -61,7 +71,7 @@
       {
         "school":"IIT PATNA",
         "degree":"BACHELOR OF TECHNOLOGY (Electrical Engineering)",
-        "graduated":"August 2016 - April 2020",
+        "graduated":"August 2016 - June 2020",
         "description" : "The Indian Institute of Technology Patna is an autonomous institute of education and research in science, engineering and technology located in Patna, India. It is recognized as an Institute of National Importance by the Government of India.",
         "link":"https://www.iitp.ac.in/"        
       },
@@ -69,19 +79,30 @@
         "school":"ADARSH VIKAS VIDYALAYA",
         "degree":"Class 12 (PCM)",
         "graduated":"July 2014 - April 2016",
+        "description":"I have completed my education till intermediate level from this school. It is a CBSE based school offering English medium of education. It is located at Mahammadpur, Patna.",
         "_comment":"description : Describe your experience at school, what you learned, what useful skills you have acquired etc.",
         "link":"http://www.avvedu.in/"
       }
     ],
     "work":[
       {
-        "company":"Research Internship,IIT Bombay",
+        "company":"Winter Research Internship, TCS Research & Innovation",
+        "title":"Gestures Recognition for Human-Robot Interaction",
+        "years":"December 2019- January 2020",
+        "description":"This project aims to build a monocular vision based robust gesture identification network for natural human robot interaction. To enlighten the project it has been decided that the identification would consist of those gestures which are commonly used while interaction between human to human and as per identified gesture command will be given to robot for its movement.",
+        "link":"https://www.tcs.com/research-and-innovation",
+        "report_link":"https://rahuls321.github.io/pdfs/Internship_Report_TCS.pdf",
+        "para":"Internship Report",
+        "icon":"fa fa-link"
+      },
+      {
+        "company":"Summer Research Internship, IIT Bombay",
         "title":"Multi-Task Learning For Automated Essay Scoring",
         "years":"May 2019- July 2019",
         "description":"This project aims to build a machine learning system for automatic scoring of essays written by students. The basic idea is to build a multi-task learning system which can model the attributes like language fluency, vocabulary, structure, organization, content, etc. simultaneously along with calculating the overall score of the essay.",
         "link": "http://www.iitb.ac.in/",
         "report_link":"https://rahuls321.github.io/pdfs/Internship_Report.pdf",
-        "para":"Internship Report Link: ",
+        "para":"Internship Report",
         "icon":"fa fa-link"
       },
       {
@@ -96,7 +117,7 @@
         "title":"SUB-COORDINATOR",
         "years":"April 2017-18",
         "description":"I was in the Learning division under Sparkonics. At its core, I personally believe on being a mentor is being a trusted advisor. I involved myself available to support and advise my juniors when they need it , and always keeping their best interests in mind.",
-        "link":"https://www.facebook.com/sparkonics/about/"
+        "link":"https://sparkonics.iitp.ac.in"
       }
     ],
     "publication":[
@@ -104,10 +125,13 @@
         "publication_title":"Online Feature Selection for Multi-label Classification in Multiobjective Optimization Framework",
         "publication_type" : "Research Paper",
         "authors": "Rahul Kumar, Dipanjyoti Paul, Sriparna Saha and Jimson Mathew",
-        "date_of_publication": "August 2019",
-        "publisher": " ",
+        "date": "August 2019",
+        "series":"ASONAM '19: ",
+        "publication":"Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining",
+        "publisher": "Association for Computing Machinery",
         "description": "This paper addresses the online feature selection problem in multi-label classification framework where multi-labeled data with features arriving in an online fashion is considered as input. The developed multi-label online feature selection algorithm automatically determines the best subset of features that is suitable for multi-label classification of the given online dataset.",
-        "link": "/"
+        "link": "https://dl.acm.org/doi/10.1145/3341161.3342947",
+        "icon":"fa fa-link"
       }
     ],
     "skills":[
@@ -159,6 +183,18 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Automatic Essay Grading",
+        "category":"Natural Language Processing",
+        "image":"aeg.jpg",
+        "url":"https://rahuls321.github.io/pdfs/Internship_Report.pdf"
+      },
+      {
+        "title":"Hand Gesture Recognition",
+        "category":"Computer Vision",
+        "image":"gesture2.png",
+        "url":"https://rahuls321.github.io/pdfs/Internship_Report_TCS.pdf"
+      },
+      {
         "title":"Online Features Selection",
         "category":"Pattern Recognition",
         "image":"pattern.jpg",
@@ -171,26 +207,26 @@
         "url":"https://github.com/rahuls321/Hardware-Security"
       },
       {
-        "title":"Kagle Digit Recognition",
-        "category":"Deep Learning",
-        "image":"digit.jpg",
-        "url":"https://github.com/rahuls321/Kaggle-Digit-Recognizer"
+        "title":"Fashionista Bot",
+        "category":"ReactJS App",
+        "image":"fashion-bot.webp",
+        "url":"https://rahuls321.github.io/fashionista-bot/"
       },
       {
         "title":"Face Detecting Bot",
         "category":"ReactJS App",
-        "image":"robo.jpg",
+        "image":"faceee.webp",
         "url":"https://rahuls321.github.io/SmartBot/"
       },
       {
         "title":"RoboFriends",
-        "category":"RoboSearch App",
-        "image":"robot2.jpg",
+        "category":"ReactJS App",
+        "image":"roboSearch.gif",
         "url":"https://rahuls321.github.io/RoboFriends/"
       },
       {
         "title":"Burger App",
-        "category":"Burger App",
+        "category":"ReactJS App",
         "image":"burger.png",
         "url":"https://rahuls321.github.io/Burger-App"
       }
@@ -199,12 +235,11 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"If you are working on something exciting that you really care about, you don't have to be pushed. The vision pulls you.",
-        "user":"Steve Jobs"
-      },
-      {
-        "text":"I've missed more than 9,000 shots during my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
-        "user":"Michael Jordan"
+        "text":"Rahul worked with me as an Intern. He never shies away from exploring new things. He is a well organised person and a good team player. During the Internship, he worked on solving computer vision problem using deep learning. Though he did not have much prior knowledge, he did a wonderful job with live demonstration of his work.",
+        "user":"Dr. Chayan Sarkar,",
+        "image":"chayan.jpg",
+        "profile":"http://chayansarkar.com/",
+        "location":"Scientist @ TCS Research & Innovation"
       }
     ]
   }
